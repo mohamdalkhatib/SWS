@@ -1,3 +1,14 @@
-# SWS Assets
+# SWS — أسماك السعودية
 
-Public asset hosting for the Asmak Alsaudia Salla storefront.
+واجهة عربية ثابتة لمتجر أسماك سليمان الحايك للبحريات الطازجة، مبنية بملف HTML واحد من دون إطار عمل أو خطوة بناء.
+
+## الملفات
+
+- `index.html`: الواجهة الكاملة الجاهزة للمعاينة والنقل إلى منصة سلة.
+- `salla-homepage-code.txt`: نسخة مطابقة من كود الواجهة.
+- `assets/logo`: نسختا الشعار الأصليتان.
+- `assets/banners`: ثلاثة بنرات أصلية بنسبة `2:1`.
+- `assets/products`: صورتا غلاف وتفاصيل لكل واحد من 18 منتجاً.
+- `assets/fonts`: خط Thmanyah Serif Display بخمسة أوزان.
+
+الصور والخطوط مستدعاة داخل الواجهة بروابط GitHub Raw مباشرة.
